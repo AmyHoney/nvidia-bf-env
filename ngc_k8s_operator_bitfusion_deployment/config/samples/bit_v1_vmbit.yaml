@@ -1,0 +1,7 @@
+apiVersion: bit.ncg.com/v1
+kind: Vmbit
+metadata:
+  name: vmbit-sample
+spec:
+  # Add fields here
+  foo: bar

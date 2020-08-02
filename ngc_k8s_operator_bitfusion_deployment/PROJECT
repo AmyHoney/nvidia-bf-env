@@ -1,0 +1,7 @@
+domain: ncg.com
+repo: ncg
+resources:
+- group: bit
+  kind: Vmbit
+  version: v1
+version: "2"
